@@ -1,3 +1,4 @@
+```
 .
 ├── docs
 │   ├── structure.md
@@ -38,3 +39,4 @@
 ├── tests
 ├── tmp
 └── tmp.txt
+```
