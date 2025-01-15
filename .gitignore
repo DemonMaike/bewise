@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor/IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Enviroments
+*.env
+.venv
+
+# Pytest cache
+.pytest_cache/
+
+# Etc.
+tmp.txt
