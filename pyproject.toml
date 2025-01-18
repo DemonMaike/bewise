@@ -16,6 +16,8 @@ pytest = "^8.3.4"
 alembic = "^1.14.0"
 sqlalchemy = "^2.0.37"
 pydantic-settings = "^2.7.1"
+pytest-asyncio = "^0.25.2"
+pytest-mock = "^3.14.0"
 
 
 [build-system]
